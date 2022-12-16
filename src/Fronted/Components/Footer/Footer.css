@@ -1,0 +1,27 @@
+.footerwrapper{
+background-color:#a5a1a1 ;
+display: flex;
+  padding: 10px;display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  
+}
+.finish button{
+    background-color: green;
+    color: white;
+    border:  1px solid green;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px 40px;
+   align-items: space-between;
+   float: right;
+   margin-right: 310px;
+   
+
+}
+ button:disabled{
+    cursor: not-allowed;
+}
+ button{
+    cursor: pointer;
+}

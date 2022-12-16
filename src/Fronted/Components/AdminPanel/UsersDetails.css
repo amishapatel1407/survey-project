@@ -1,0 +1,125 @@
+.adminpannelwrapper {
+  background-color: #f5f5f5;
+  padding: 8px 105px;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+
+}
+
+.adminpannelwrapper1 {
+  background-color: #f5f5f5;
+  opacity: 0.5;
+  padding: 8px 105px;
+  display: flex;
+  flex-wrap: wrap;
+
+
+}
+
+.card {
+  background-color: #d9d9d9;
+  height: 50%;
+  width: 20%;
+  border-top-left-radius: 10px;
+  border-radius: 10px;
+  margin: 26px;
+}
+
+.userimages {
+
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+.container {
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.container .name {
+  background-color: #e4e4e4;
+  text-align: center;
+
+}
+
+.name h4 {
+  padding: 7px 0px;
+  margin: 0px;
+  border-bottom: 1px solid rgb(167, 155, 155);
+}
+
+.container .role p {
+  margin: 0px;
+  color: rgb(161, 150, 136);
+  ;
+
+
+}
+
+.role {
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  margin: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.editicon img {
+  width: 30px;
+  padding: 15px;
+}
+
+.btn {
+  margin: auto;
+  margin: auto;
+  background-color: #f5f5f5;
+  padding: 10px 45px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+
+}
+
+.btn1 {
+  margin: auto;
+  margin: auto;
+  background-color: #f5f5f5;
+  opacity: 0.5;
+  padding: 10px 45px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+}
+
+.btn1 button {
+  padding: 10px 10px;
+  background-color: #9d9d9d;
+  border: 1px solid #9d9d9d;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.btn button {
+  padding: 10px 10px;
+  background-color: #9d9d9d;
+  border: 1px solid #9d9d9d;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.deleteicon img {
+  width: 20px;
+  height: auto;
+}

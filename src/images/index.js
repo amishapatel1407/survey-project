@@ -1,0 +1,8 @@
+export {default as SurveryIcon} from './surveyicon.png' 
+export {default as UserIcon} from './user.png'
+export {default as righticon} from './righticon.png'
+export {default as SurveyLogin} from './SurveyLogin.png'
+export {default as PlaceorderImg} from './placeholder.png'
+export {default as editIcon} from './editIcon.png'
+export {default as logout} from './logout.png'
+export {default as deleteIcon} from './deleteIcon.png'

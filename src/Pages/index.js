@@ -1,0 +1,6 @@
+export {default as Home} from './Home'
+export {default as LoginPage} from './LoginPage'
+export {default as Chess} from './Chess'
+export {default as AdminPage} from './AdminPage'
+export {default as CategoriePg} from './CategoriePg (1)'
+export {default as Categoryhierarchy} from './Categoryhierarchy'
